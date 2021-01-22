@@ -1,0 +1,25 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chiao.chiao.github.io" resolutions="1x" timestamp="1611323531817">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4119404886" ref="index"/>
+    <file name="__.css" crc="272071928" ref="影片"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:影片"/>
+    <file name="museutils.js" crc="3939489907" ref="index:影片"/>
+    <file name="whatinput.js" crc="86476730" ref="index:影片"/>
+    <file name="museconfig.js" crc="128606099" ref="index:影片"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:影片"/>
+    <file name="require.js" crc="4177726516" ref="index:影片"/>
+  </folder>
+  <folder name="images">
+    <file name="hori_a3.jpg" crc="3832300553" seo="true" ref="影片">
+      <caption webpage="影片" alt=""/>
+    </file>
+    <file name="30d00625-8697-4ddd-a583-0e109def30f6-crop-u106.jpg" crc="4092319687" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3902174027" seo="true" mt="1611323509849" redirect="true"/>
+  <file name="影片.html" crc="4166940698" seo="true" mt="1611313010847" redirect="true"/>
+</manifest>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://chiao.chiao.github.io/index.html</loc>
+    <lastmod>2021-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chiao.chiao.github.io/images/30d00625-8697-4ddd-a583-0e109def30f6-crop-u106.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://chiao.chiao.github.io/%E5%BD%B1%E7%89%87.html</loc>
+    <lastmod>2021-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chiao.chiao.github.io/images/hori_a3.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
